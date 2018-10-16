@@ -16,5 +16,9 @@
 5. You are provided with link to add the host of match as friend.
 6. Now both of you have to play a friendly battle and the winner gets the amount in Clash Money wallet.
 
+## Video showing how it works
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 ### Support or Contact
 Having trouble with App? Contact us here [Contact](mailto:keshavnrj@gmail.com) and we’ll help you sort it out.
+
