@@ -5,6 +5,9 @@
 ## Download
 [Download Latest Version of ClashMoney Apk for Android here](http://ktechpit.com/rapi)
 
+## Screenshots
+[Check Screeshots here](https://github.com/keshavbhatt/clashmoney/blob/master/screenshots/README.md)
+
 ## How to Play
 1. You login with your ClashRoyale account tag.
 2. You add money to your wallet using PayTm.
